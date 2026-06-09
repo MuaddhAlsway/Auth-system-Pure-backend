@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black" alt="Turso" />
+  <a href="https://app.notion.com/p/Pure-Backend-Authentication-System-37ae97a262dc80378590ec1fed91de95?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Docs" />
+  </a>
 </p>
 
 A pure Node.js/Express REST API for JWT-based authentication with role-based access control, backed by [Turso](https://turso.tech) (libSQL).

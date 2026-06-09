@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black" alt="Turso" />
+  <a href="https://app.notion.com/p/Advanced-Auth-Architecture-37ae97a262dc809e84f3ee12e43f8c54?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Docs" />
+  </a>
 </p>
 
 A modular Node.js/Express authentication backend with JWT access/refresh tokens, role-based permissions, session tracking, and audit logging — backed by [Turso](https://turso.tech) (libSQL).
